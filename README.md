@@ -30,5 +30,24 @@ This model achieved:
 
 ## 🧩 How to Use This Project
 
-1. Clone the repository  
+1. Clone the repository
+   git clone https://github.com/Naresh7093/Titanic-Survival-ML-Project
 
+2. Install dependencies:
+   pip install pandas numpy scikit-learn matplotlib
+
+3. Open the notebook inside the `notebook/` folder and run all cells.
+
+## 📁 Project Structure
+
+├── models/
+│   └── titanic_survival_model.joblib   (to be added soon)
+├── notebook/
+│   └── Titanic_Survival_Model.ipynb
+└── README.md
+
+## 👨‍💻 Author
+**Naresh Tallapaka**  
+Aspiring Machine Learning Engineer with interest in healthcare AI and survival prediction models.
+
+---
